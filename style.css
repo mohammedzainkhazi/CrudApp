@@ -1,0 +1,10 @@
+.operations{
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:space-around;
+}
+
+.addBtn{
+	margin-top: 30px;
+}
