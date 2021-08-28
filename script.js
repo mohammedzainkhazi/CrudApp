@@ -1,15 +1,15 @@
 var pname,pemail,pphone,prelation,user;
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyCbVx5-zG6YVM5ta1od1RneGViglj7vZJ0",
-    authDomain: "crudapp-2021.firebaseapp.com",
-    databaseURL: "https://crudapp-2021-default-rtdb.firebaseio.com",
-    projectId: "crudapp-2021",
-    storageBucket: "crudapp-2021.appspot.com",
-    messagingSenderId: "492735827121",
-    appId: "1:492735827121:web:33427ade40fb34d6d02690",
-    measurementId: "G-YJJMSMHQSJ"
-  };
+    apiKey: "< Your FireBase API Key >",
+    authDomain: " domain ",
+    databaseURL: "https:// firebase db url ",
+    projectId: " id ",
+    storageBucket: "bucket id ",
+    messagingSenderId: " msg sender id ",
+    appId: " app id ",
+    measurementId: " msrmnt id "
+  };                                                                    
     firebase.initializeApp(firebaseConfig);
 // Initialize Firebase
   function getReady(){
